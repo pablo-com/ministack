@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/ministack-3aa742f02d47bb06980c3ffb31ea0d119ef223d6/ministack.iml" filepath="$PROJECT_DIR$/ministack-3aa742f02d47bb06980c3ffb31ea0d119ef223d6/ministack.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/ministack-3aa742f02d47bb06980c3ffb31ea0d119ef223d6.iml" filepath="$PROJECT_DIR$/.idea/ministack-3aa742f02d47bb06980c3ffb31ea0d119ef223d6.iml" />
+    </modules>
+  </component>
+</project>
